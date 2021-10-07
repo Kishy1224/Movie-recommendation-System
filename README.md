@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System (ENGLISH)
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
